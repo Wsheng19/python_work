@@ -1,0 +1,4 @@
+aqi,area,pm2_5,pm2_5_24h,position_name,primary_pollutant,quality,station_code,time_point
+82,珠海,31,60,吉大,颗粒物(PM2.5),良,1367A,2013-03-07T19:00:00Z
+99,珠海,39,67,,,良,,2013-03-07T19:00:00Z
+108,珠海,0,53,斗门,臭氧8小时,轻度污染,1370A,2013-03-07T19:00:00Z
